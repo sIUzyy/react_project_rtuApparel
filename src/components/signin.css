@@ -1,0 +1,12 @@
+@media screen and (max-width: 380px) {
+    .main-class{
+        width: 310px;
+    }
+}
+
+@media screen and (min-width: 360px) {
+    .main-class{
+        width: 310px;
+    }
+}
+

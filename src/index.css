@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+/* .about{
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/5/57/RTU_Seal.png');
+    background-position: center;
+    background-repeat: no-repeat;
+} */
+
+.icons{
+    margin-left: 26px;
+}
+
+/* .input{
+    border: 2px;
+    border-color: black;
+    width: 100%;
+    height: 2.25rem;
+} */
+
+.input-error{
+    font-size: 0.875rem;
+    font-weight: 500;
+    line-height: 1.25rem;
+    color: red;
+}
+
+/* button:disabled{
+    opacity: 50%;
+    transition-duration: 200ms;
+} */
+
+/* @media only screen and (max-width: 768px) {
+   .input{
+    width: 18rem;
+   }
+  }
+
+  @media only screen and (max-width: 1024px) {
+    .input{
+     width: 24rem;
+    }
+   } */

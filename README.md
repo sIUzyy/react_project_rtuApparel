@@ -11,7 +11,7 @@ https://rtu-apparel.web.app
 
 <hr>
 RTU APPAREL FEATURES
-<br>
+<br></br>
 <ul>
   <li>Secure: Your personal information is protected, and the website uses secure protocols to ensure your data is safe.</li>
   <li>Contact Admin: Easily get in touch with the website administrator for any inquiries or assistance you may need.</li>

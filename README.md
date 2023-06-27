@@ -10,7 +10,7 @@ https://rtu-apparel.web.app
 
 
 <hr>
-RTU APPAREL FEATURES
+RTU APPAREL FEATURES:
 <br></br>
 <ul>
   <li><b>Secure</b>: Your personal information is protected, and the website uses secure protocols to ensure your data is safe.</li>

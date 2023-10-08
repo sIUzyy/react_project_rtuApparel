@@ -8,6 +8,12 @@ To obtain the code, simply follow these steps as outlined. <br>
 visit the website for reference:
 https://rtu-apparel.web.app
 
+..Tech stack: <br>
+<ul>
+  <li>REACTJS</li>
+  <li>FIREBASE</li>
+</ul>
+
 
 <hr>
 RTU APPAREL FEATURES:
@@ -21,6 +27,8 @@ RTU APPAREL FEATURES:
   <li><b>Simple Checkout</b>: Streamlined checkout process for a hassle-free shopping experience.</li>
   <li><b>Payment Options</b>: Accept various payment methods, including Cash on Delivery and Online Payment.</li>
 </ul>
+
+
 
 
 
